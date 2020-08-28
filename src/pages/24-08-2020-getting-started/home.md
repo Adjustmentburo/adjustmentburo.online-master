@@ -1,8 +1,4 @@
----
-path: "/hello-world"
-date: 2020-08-24T17:12:33.962Z
-title: "My First Gatsby Post"
----
+
 # What you need to know
 
 ## Most writers are not very social people
@@ -14,7 +10,7 @@ I am considerably social, however I am to still trying to understand what makes 
 
 ---
 
-ThatThis is what got me interested in politics, economics and basic human behaviour. It turned out that I am also a good researcher. Due to the fact that I am able to have an overview and not just think outside the box, but take the box to a whole other level.
+This is what got me interested in politics, economics and basic human behaviour. It turned out that I am also a good researcher. Due to the fact that I am able to have an overview and not just think outside the box, but take the box to a whole other level.
 
 ---
 
